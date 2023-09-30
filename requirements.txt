@@ -1,0 +1,41 @@
+# My Unique Library
+
+Welcome to **My Unique Library**, my personal Flask web application for managing my virtual bookshelf. With this application, I can easily add, edit, delete, and view books in my library through a user-friendly web interface.
+
+## Features
+
+- **Add Books:** I can add new books to my library, including their titles, authors, and ratings.
+- **Edit Ratings:** If I want to update the ratings of the books I've read, I can easily do so.
+- **Delete Books:** If I remove a book from my collection, I can delete it from my library.
+- **View Bookshelf:** I can view my entire bookshelf, complete with all the books I've added.
+
+## Installation
+
+To get started with my unique library, follow these steps:
+
+1. **Clone the Repository:**
+https://github.com/jackripttt/virtual-bookshelf.git
+
+
+
+
+2. **Access the Application:**
+Open your web browser and visit `http://localhost:5000`.
+
+## Usage
+
+Here's how I can use the application:
+
+- **Homepage:** When I visit the homepage, I can see my library, add new books, or edit/delete existing books.
+- **Add New Book:** Clicking "Add New Book" allows me to add a book to my library.
+- **Edit Rating:** If I want to update the rating of a book, I can click "Edit Rating."
+- **Delete:** To remove a book, I simply click "Delete."
+- **View Bookshelf:** I can access the "View Bookshelf" page to see all my books.
+
+## Contributing
+
+If you'd like to contribute to my project, please feel free to open an issue or submit a pull request. I welcome any suggestions or improvements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
